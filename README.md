@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/minecraft-banner.png" width="100%" alt="Ahmad Daffa Minecraft Banner"/>
+<img src="./minecraftdappa.png" width="100%" alt="Ahmad Daffa Minecraft Banner"/>
 
 <br/>
 
