@@ -2,6 +2,8 @@
 
 <img src="./minecraftdappa.png" width="100%" alt="Ahmad Daffa Minecraft Banner"/>
 
+
+
 <br/>
 
 <img src="https://img.shields.io/badge/Frontend%20Developer-111827?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -9,6 +11,8 @@
 <img src="https://img.shields.io/badge/UI%2FUX%20Designer-111827?style=for-the-badge&logo=figma&logoColor=F24E1E"/>
 
 </div>
+
+
 
 <p align="center">
   <a href="mailto:ahmmdaffa280904@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
