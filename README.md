@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Ahmad%20Daffa&fontSize=48&fontAlignY=38&animation=fadeIn&fontColor=ffffff&color=0:0F172A,50:6C63FF,100:3B82F6"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=30&pause=1000&color=6C63FF&center=true&vCenter=true&width=850&lines=Frontend+Developer;AI+Engineer;Modern+Web+Designer;Building+Creative+Digital+Experiences"/>
+<img src="./assets/minecraft-banner.png" width="100%" alt="Ahmad Daffa Minecraft Banner"/>
 
 <br/>
 
@@ -48,7 +46,9 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="60%" src="https://streak-stats.demolab.com?user=ahmmdaffa&theme=tokyonight&hide_border=true" />
+
+<img width="60%" src="https://streak-stats.demolab.com?user=ahmmdaffa&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
@@ -76,7 +76,7 @@
   <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="-">
+<a href="#">
   <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
