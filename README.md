@@ -1,16 +1,95 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**ahmmdaffa/ahmmdaffa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Fikih%20Rizaldi&fontSize=48&fontAlignY=38&animation=fadeIn&fontColor=ffffff&color=0:0F172A,50:6C63FF,100:3B82F6"/>
 
-Here are some ideas to get you started:
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=30&pause=1000&color=6C63FF&center=true&vCenter=true&width=850&lines=Frontend+Developer;AI+Engineer;Modern+Web+Designer;Building+Creative+Digital+Experiences"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+<img src="https://img.shields.io/badge/Frontend%20Developer-111827?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/AI%20Engineer-111827?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/UI%2FUX%20Designer-111827?style=for-the-badge&logo=figma&logoColor=F24E1E"/>
+
+</div>
+
+---
+
+# ✨ About Me
+
+<img align="right" width="320" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
+
+### 👋 Hey, I'm Ahmad Daffa
+
+🚀 Frontend Developer & AI Engineer from Indonesia  
+💻 Passionate about building modern websites, AI applications, and futuristic UI/UX experiences  
+⚡ Focused on creating interactive, clean, and impactful digital products
+
+<br/>
+
+### 🧠 Currently Exploring
+
+- Modern Frontend Development
+- AI Integration & Automation
+- Fullstack Web Development
+- Creative UI/UX Design
+
+---
+
+# ⚒️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,vite,tailwind,nodejs,php,mysql,firebase,python,tensorflow,figma,git,github,vscode&theme=dark"/>
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img width="60%" src="https://streak-stats.demolab.com?user=FikihRizaldi&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+| 🚀 Project | 💡 Description |
+|---|---|
+| 🌐 UpSite | Modern company profile website |
+| 🤖 AI Web App | AI-powered web application |
+| 💼 Portfolio Website | Interactive developer portfolio |
+| 📡 Monitoring System | Real-time monitoring platform |
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/ahmmdaffa">
+  <img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="-">
+  <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=FikihRizaldi&label=Profile%20Views&color=6C63FF&style=for-the-badge"/>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F172A,50:6C63FF,100:3B82F6"/>
+
+</div>
