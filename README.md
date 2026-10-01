@@ -2,8 +2,6 @@
 
 <img src="./minecraftdappa.png" width="100%" alt="Ahmad Daffa Minecraft Banner"/>
 
-
-
 <br/>
 
 <img src="https://img.shields.io/badge/Frontend%20Developer-111827?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -11,13 +9,6 @@
 <img src="https://img.shields.io/badge/UI%2FUX%20Designer-111827?style=for-the-badge&logo=figma&logoColor=F24E1E"/>
 
 </div>
-
-
-
-<p align="center">
-  <a href="mailto:ahmmdaffa280904@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/ahmmdaffa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</p>
 
 ---
 
@@ -85,8 +76,8 @@
   <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="#">
-  <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white"/>
+<a href="https://www.linkedin.com/in/ahmmdaffa">
+  <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
 </div>
